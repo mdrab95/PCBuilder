@@ -1,0 +1,6 @@
+Kingston;HX421C14FBK2/8;HyperX FURY;DDR4;8;2;4;DIMM;2133;14;1.2;5;true;false;275;images/ramImages/big/;images/ramImages/small/
+Corsair;CMK16GX4M2B3000C15R;Vengeance LPX;DDR4;16;2;8;DIMM;3000;15;1.35;5;true;false;570;images/ramImages/big/;images/ramImages/small/
+Corsair;CMK16GX4M2B3000C15;Vengeance LPX;DDR4;16;2;8;DIMM;3000;15;1.35;5;true;false;570;images/ramImages/big/;images/ramImages/small/
+Corsair;CMK8GX4M2B3000C15;Vengeance LPX;DDR4;8;2;4;DIMM;3000;15;1.35;5;true;false;330;images/ramImages/big/;images/ramImages/small/
+Goodram;GY2400D464L15S;PLAY;DDR4;8;1;8;DIMM;2400;15;1.2;5;true;false;265;images/ramImages/big/;images/ramImages/small/
+Goodram;GY2133D464L15S/8G;PLAY;DDR4;8;1;8;DIMM;2133;15;1.2;5;true;false;250;images/ramImages/big/;images/ramImages/small/

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane prefHeight="700.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.pcbuilder.controller.SSDOverviewController">
+    <children>
+        <GridPane layoutX="14.0" layoutY="28.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="640.0" prefWidth="176.0">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            </rowConstraints>
+            <children>
+                <Label text="Producer" />
+                <CheckBox mnemonicParsing="false" text="ADATA" GridPane.rowIndex="1" />
+                <CheckBox mnemonicParsing="false" text="Goodram" GridPane.rowIndex="2" />
+                <CheckBox mnemonicParsing="false" text="Intel" GridPane.rowIndex="3" />
+                <CheckBox mnemonicParsing="false" text="Kingston" GridPane.rowIndex="4" />
+                <CheckBox mnemonicParsing="false" text="Samsung" GridPane.rowIndex="5" />
+                <CheckBox mnemonicParsing="false" text="HyperX" GridPane.rowIndex="6" />
+                <Label text="Capacity" GridPane.rowIndex="7" />
+                <CheckBox mnemonicParsing="false" text="128 GB or less" GridPane.rowIndex="8" />
+                <CheckBox mnemonicParsing="false" text="240-275 GB" GridPane.rowIndex="9" />
+                <CheckBox mnemonicParsing="false" text="480-525 GB" GridPane.rowIndex="10" />
+                <CheckBox mnemonicParsing="false" text="960 GB or more" GridPane.rowIndex="11" />
+                <Label text="Interface type" GridPane.rowIndex="12" />
+                <ComboBox prefWidth="150.0" promptText="Select" GridPane.rowIndex="13" />
+                <Label text="Form factor" GridPane.rowIndex="14" />
+                <ComboBox prefWidth="150.0" promptText="Select" GridPane.rowIndex="15" />
+                <Label text="Memory type" GridPane.rowIndex="16" />
+                <CheckBox mnemonicParsing="false" text="MLC" GridPane.rowIndex="17" />
+                <CheckBox mnemonicParsing="false" text="3D-NAND TLC" GridPane.rowIndex="18" />
+                <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="335.0" text="Apply Filters" GridPane.rowIndex="19" />
+            </children>
+        </GridPane>
+        <Pane layoutX="230.0" layoutY="0.0" prefHeight="700.0" prefWidth="970.0">
+            <children>
+                <ListView fx:id="ssdListView" layoutX="30.0" layoutY="30.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="640.0" prefWidth="910.0" />
+            </children>
+        </Pane>
+    </children>
+</AnchorPane>

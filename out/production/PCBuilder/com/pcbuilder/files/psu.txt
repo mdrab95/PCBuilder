@@ -1,0 +1,8 @@
+SilentiumPC;Supremo M2 Gold;SPC140;ATX;80 Plus Gold;Active with passive mode;SIP, OPP, OVP, SCP, UVP;120;163;true;550;320;images/psuImages/big/;images/psuImages/small/;
+Corsair;Corsair VS Series;CP-9020097-EU;ATX;80 Plus;Active with passive mode;OVP, UVP, OCP, SCP;120;140;false;550;205;images/psuImages/big/;images/psuImages/small/;
+Corsair;Corsair VS Series;CP-9020096-EU;ATX;80 Plus;Active with passive mode;OVP, UVP, OCP, SCP;120;140;false;450;180;images/psuImages/big/;images/psuImages/small/;
+SilentiumPC;Vero L1;VL1-500;ATX;80 Plus;Active with passive mode;SIP, OPP, OLP, OVP, SCP, UVP;120;163;false;500;170;images/psuImages/big/;images/psuImages/small/;
+SilentiumPC;Vero L1;SPC132;ATX;80 Plus;Active with passive mode;SIP, OPP, OLP, OVP, SCP, UVP;120;163;true;600;170;images/psuImages/big/;images/psuImages/small/;
+SilentiumPC;Vero M1;SPC117;ATX;80 Plus;Active with passive mode;SIP, OPP, OLP, OVP, SCP, UVP;120;150;false;600;230;images/psuImages/big/;images/psuImages/small/;
+SilentiumPC;Supremo L2;SPC139;ATX;80 Plus Gold;Active with passive mode;SIP, OPP, OLP, OVP, SCP, UVP;120;160;false;550;289;images/psuImages/big/;images/psuImages/small/;
+Thermaltake;Smart SE;SPS-530MPCBEU;ATX;;Active with passive mode;OVP, SCP, OPP, OLP;140;160;true;550;289;images/psuImages/big/;images/psuImages/small/;

@@ -1,0 +1,12 @@
+Crucial;CT275MX300SSD1;MX300;SATA III;2.5";AHCI;275;530;500;TLC;80;Marvell;88SS1074 Controller with Crucial Custom Firmware;5;false;400;images/ssdImages/big/;images/ssdImages/small/
+Crucial;CT525MX300SSD1;MX300;SATA III;2.5";AHCI;525;530;510;TLC;160;Marvell;88SS1074 Controller with Crucial Custom Firmware;5;false;650;images/ssdImages/big/;images/ssdImages/small/
+Crucial;CT1050MX300SSD1;MX300;SATA III;2.5";AHCI;1024;530;510;TLC;360;Marvell;88SS1074 Controller with Crucial Custom Firmware;5;false;1265;images/ssdImages/big/;images/ssdImages/small/
+Crucial;CT2050MX300SSD1;MX300;SATA III;2.5";AHCI;2048;530;510;TLC;400;Marvell;88SS1074 Controller with Crucial Custom Firmware;5;false;2390;images/ssdImages/big/;images/ssdImages/small/
+Crucial;CT275MX300SSD4;MX300;M.2 (SATA);M.2 2280;AHCI;275;530;500;TLC;80;Marvell;88SS1074 Controller with Crucial Custom Firmware;5;false;400;images/ssdImages/big/;images/ssdImages/small/
+Crucial;CT525MX300SSD4;MX300;M.2 (SATA);M.2 2280;AHCI;525;530;510;TLC;160;Marvell;88SS1074 Controller with Crucial Custom Firmware;5;false;650;images/ssdImages/big/;images/ssdImages/small/
+Crucial;CT1050MX300SSD4;MX300;M.2 (SATA);M.2 2280;AHCI;1024;530;510;TLC;360;Marvell;88SS1074 Controller with Crucial Custom Firmware;5;false;1265;images/ssdImages/big/;images/ssdImages/small/
+Crucial;CT2050MX300SSD4;MX300;M.2 (SATA);M.2 2280;AHCI;2048;530;510;TLC;400;Marvell;88SS1074 Controller with Crucial Custom Firmware;5;false;2390;images/ssdImages/big/;images/ssdImages/small/
+Goodram;SSDPR-IRIDPRO-240;Iridium Pro;SATA III;2.5";AHCI;240;560;530;MLC;400;Phison;PS3110-S10;5;false;380;images/ssdImages/big/;images/ssdImages/small/
+Goodram;SSDPR-IRIDPRO-480;Iridium Pro;SATA III;2.5";AHCI;480;560;530;MLC;600;Phison;PS3110-S10;5;false;770;images/ssdImages/big/;images/ssdImages/small/
+Samsung;MZVPW256HEGL-00000;SM961;M.2 (PCIE);M.2 2280;NVME 1.2;256;3100;1400;MLC;0;Samsung;Polaris;5;false;620;images/ssdImages/big/;images/ssdImages/small/
+ADATA;ASU800SS-128GT-C;SU800;SATA III;2.5";AHCI;128;560;300;TLC;0;Silicon Motion;2258;5;false;240;images/ssdImages/big/;images/ssdImages/small/

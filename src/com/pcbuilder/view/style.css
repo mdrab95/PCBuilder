@@ -1,0 +1,119 @@
+.background {
+    -fx-background-color: #ffffff
+}
+
+.label {
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: #000000;
+    -fx-opacity: 1;
+}
+
+.label-bright {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: #ffffff;
+    -fx-opacity: 1;
+}
+
+.label-header {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: #000000;
+    -fx-opacity: 1;
+}
+
+.check-box {
+  -fx-text-fill: #000000;
+  -fx-text-size: 11pt;
+  -fx-font-family: "Segoe UI Light";
+}
+
+.label-small {
+  -fx-text-fill: #000000;
+  -fx-text-size: 9;
+  -fx-font-family: "Segoe UI Light";
+}
+
+.label-pcbuilder {
+  -fx-text-fill: #000000;
+  -fx-text-size: 7;
+  -fx-font-family: "Segoe UI Light";
+}
+
+.label-pcbuilder-disabled {
+  -fx-text-fill: #000000;
+  -fx-text-size: 7;
+  -fx-font-family: "Segoe UI Light";
+}
+
+.context-menu {
+    -fx-background-color: derive(#3498db,100%);
+}
+
+.menu-bar .label {
+    -fx-font-size: 22pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: white;
+    -fx-opacity: 0.9;
+}
+
+.menu .left-container {
+    -fx-background-color: black;
+}
+
+.text-field {
+    -fx-font-size: 9pt;
+    -fx-font-family: "Segoe UI Light";
+}
+
+.button-menu {
+    -fx-padding: 2 5 2 5;   
+    -fx-border-color: #ffffff;
+    -fx-border-width: 2;
+    -fx-background-color: #ffffff;
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 10pt;
+    -fx-text-fill: #000000;
+    -fx-background-insets: 0 0 0 0, 0, 0, 0;
+}
+
+.button-menu:hover {
+    -fx-background-color: #5faee3;
+    -fx-border-width: 2;
+    -fx-border-color: #5faee3;
+}
+
+.button-menu:pressed, .button:default:hover:pressed {
+  -fx-background-color: #5faee3;
+  -fx-text-fill: #ffffff;
+  -fx-border-color: #5faee3;
+}
+
+.button-menu:focused { /* clicked */
+  -fx-border-color: #5faee3;
+  -fx-background-color: #5faee3;
+  -fx-text-fill: white;
+}
+
+.button-menu:disabled, .button:default:disabled {
+    -fx-opacity: 0.4;
+    -fx-text-fill: white;
+}
+
+.button:default {
+    -fx-background-color: -fx-focus-color;
+    -fx-text-fill: #ffffff;
+    -fx-border-color: #ffffff;
+}
+
+.button:default:hover {
+    -fx-background-color: derive(-fx-focus-color,30%);
+}
+
+.pcbuilder-disabled {
+  visibility: disabled;
+}
+
+.pcbuilder-enabled {
+  visibility: visible;
+}

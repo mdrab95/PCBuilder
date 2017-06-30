@@ -1,0 +1,6 @@
+Toshiba;HDWD110UZSVA;P300;SATA III;3.5";7200;1000;165;150;64;5;210;images/hddImages/big/;images/hddImages/small/
+Toshiba;HDWD120UZSVA;P300;SATA III;3.5";7200;2000;170;165;64;5;300;images/hddImages/big/;images/hddImages/small/
+Western Digital;WD10EZEX;Blue;SATA III;3.5";7200;1000;131;123;64;5;220;images/hddImages/big/;images/hddImages/small/
+Western Digital;WD40EFRX;Red;SATA III;3.5";5400;4000;134;123;64;5;610;images/hddImages/big/;images/hddImages/small/
+Seagate;ST1000DM010;Barracuda;SATA III;3.5";7200;1000;170;160;64;5;210;images/hddImages/big/;images/hddImages/small/
+Seagate;ST2000DM006;Barracuda;SATA III;3.5";7200;2000;175;165;64;5;320;images/hddImages/big/;images/hddImages/small/

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1280.0" styleClass="background" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.pcbuilder.controller.MainViewController">
+   <top>
+      <ToolBar prefHeight="20.0" prefWidth="200.0" styleClass="background" BorderPane.alignment="CENTER">
+         <items>
+            <HBox prefHeight="22.0" prefWidth="1268.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#showPCBuilderEz" styleClass="button-menu" text="PC Builder - EZ Creator " />
+                  <Button mnemonicParsing="false" onAction="#showCpu" styleClass="button-menu" text="Processors (CPUs)" />
+                  <Button mnemonicParsing="false" onAction="#showCpuCooler" styleClass="button-menu" text="CPU Coolers" />
+                  <Button mnemonicParsing="false" onAction="#showGpu" styleClass="button-menu" text="Graphics Cards (GPUs) " />
+                  <Button mnemonicParsing="false" onAction="#showRam" styleClass="button-menu" text="RAM Memory" />
+                  <Button mnemonicParsing="false" onAction="#showMobo" styleClass="button-menu" text="Motherboards" />
+                  <Button mnemonicParsing="false" onAction="#showSsd" styleClass="button-menu" text="Solid State Drives (SSDs)" />
+                  <Button mnemonicParsing="false" onAction="#showHdd" styleClass="button-menu" text="Hard Drives (HDDs)" />
+                  <Button mnemonicParsing="false" onAction="#showPsu" styleClass="button-menu" text="Power Supplies" />
+                  <Button mnemonicParsing="false" onAction="#showCase" styleClass="button-menu" text="PC Cases" />
+                <Button mnemonicParsing="false" styleClass="button-menu" text="Help &amp; About" />
+               </children>
+            </HBox>
+         </items>
+      </ToolBar>
+   </top>
+</BorderPane>

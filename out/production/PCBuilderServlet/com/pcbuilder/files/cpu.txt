@@ -1,0 +1,12 @@
+Intel;1151;7700k;Core i7;14;4;8;true;true;4.2;4.5;1;8;91;140;box;false;1580;images/cpuImages/big/i7-7700k.png;images/cpuImages/small/i7-7700k_small.png;
+Intel;1151;7700;Core i7;14;4;8;false;true;3.6;4.2;1;8;65;95;box;true;1400;images/cpuImages/big/i7-7700.png;images/cpuImages/small/i7-7700_small.png;
+Intel;1151;7600k;Core i5;14;4;4;true;true;3.8;4.2;1;6;91;115;box;false;1100;images/cpuImages/big/i5-7600k.png;images/cpuImages/small/i5-7600k_small.png;
+Intel;1151;7600;Core i5;14;4;4;false;true;3.5;4.1;1;6;65;85;box;true;995;images/cpuImages/big/i5-kaby.png;images/cpuImages/small/i5-kaby_small.png;
+Intel;1151;7500;Core i5;14;4;4;false;true;3.4;3.8;1;6;65;80;box;true;930;images/cpuImages/big/i5-kaby.png;images/cpuImages/small/i5-kaby_small.png;
+Intel;1151;7400;Core i5;14;4;4;false;true;3.0;3.5;1;6;65;75;box;true;850;images/cpuImages/big/i5-kaby.png;images/cpuImages/small/i5-kaby_small.png;
+Intel;1151;7350k;Core i3;14;2;4;true;true;4.2;3.5;0.5;4;60;90;box;false;850;images/cpuImages/big/i3-7350k.png;images/cpuImages/small/i3-7350k_small.png;
+Intel;1151;7300;Core i3;14;2;4;false;true;4.0;3.5;0.5;4;51;55;box;true;650;images/cpuImages/big/i3-kaby.png;images/cpuImages/small/i3-kaby_small.png;
+Intel;1151;7100;Core i3;14;2;4;false;true;3.9;3.5;0.5;3;51;50;box;true;500;images/cpuImages/big/i3-kaby.png;images/cpuImages/small/i3-kaby_small.png;
+Intel;1151;G4620;Pentium;14;2;4;false;true;3.7;3.5;0.5;3;51;47;box;true;400;images/cpuImages/big/pentium-kaby.png;images/cpuImages/small/pentium-kaby_small.png;
+Intel;1151;G4600;Pentium;14;2;4;false;true;3.6;3.5;0.5;3;61;45;box;true;370;images/cpuImages/big/pentium-kaby.png;images/cpuImages/small/pentium-kaby_small.png;
+Intel;1151;G4560;Pentium;14;2;4;false;true;3.5;3.5;0.5;3;54;40;box;true;250;images/cpuImages/big/pentium-kaby.png;images/cpuImages/small/pentium-kaby_small.png;
