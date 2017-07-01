@@ -1,0 +1,4 @@
+1. Copy database or create new one (derby remote) called "pcbuilder" (login - admin, password - admin).
+2. Run database server. 
+3. Run "CreateTablesAndFillItWithData" (if the tables do not exist, PCBuilder will create and fill them with data from .txt files).
+4. Run "MainApp".
